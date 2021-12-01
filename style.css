@@ -1,0 +1,29 @@
+ 
+  .navbar {
+    background-color: teal;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .navbar a {
+    float: left;
+    display: block;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .navbar a:hover {
+    background-color:rgb(108, 204, 204);
+    color:white;
+    
+  }
+
+.container-fluid {
+  background-color: teal;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
