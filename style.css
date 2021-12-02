@@ -27,3 +27,17 @@
 .navbar-brand {
   font-weight: bold;
 }
+
+.nav-link {
+  color: black;
+}
+
+.image {
+  height: 300px;
+  width: 350px;
+}
+
+h1 {
+  font-size: 30px;
+  color: teal;
+}
